@@ -133,7 +133,7 @@ climate-change/
 
 ## Running
 
-### Jupyter Notebook / JupyterLab [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aahan-kumar/climate-change/main?urlpath=%2Fdoc%2Ftree%2Fclimate_change.ipynb)
+### Jupyter Notebook / JupyterLab   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aahan-kumar/climate-change/main?urlpath=%2Fdoc%2Ftree%2Fclimate_change.ipynb)
 
 
 Install the required libraries:
@@ -151,8 +151,7 @@ Upload or open `climate_change.ipynb` in [Google Colab](https://colab.research.g
 
 The notebook downloads the temperature anomaly csv directly from Our World in Data, so a internet connection is required when loading the dataset.
 
-## Data source
-[![Our World in Data - data source](owid.svg)](https://ourworldindata.org/grapher/annual-temperature-anomalies.csv)
+## Data source &ensp; [![Our World in Data - data source](owid.svg)](https://ourworldindata.org/grapher/annual-temperature-anomalies.csv)
 
 Our World in Data - Annual Temperature Anomalies
 
