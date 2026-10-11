@@ -133,8 +133,7 @@ climate-change/
 
 ## Running
 
-### Jupyter Notebook / JupyterLab
-[![JupyterLite](https://jupyterlite.readthedocs.io/en/latest/_static/badge.svg)](https://jupyter.org/try-jupyter/lab/index.html?fromURL=https://raw.githubusercontent.com/aahan-kumar/climate-change/refs/heads/main/climate_change.ipynb) &nbsp; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aahan-kumar/climate-change/main?urlpath=%2Fdoc%2Ftree%2Fclimate_change.ipynb)
+### Jupyter Notebook / JupyterLab [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aahan-kumar/climate-change/main?urlpath=%2Fdoc%2Ftree%2Fclimate_change.ipynb)
 
 
 Install the required libraries:
